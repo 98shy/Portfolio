@@ -1,0 +1,33 @@
+@media only screen and (min-width: 440px){
+    .nav-item {
+        font-size: 18px;
+    }
+    .navbar-text {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .nav-item {
+        font-size: 18px;
+    }
+    .navbar-text {
+        font-size: 15px;
+    }
+}
+
+.nav-item {
+    font-size: 20px;
+}
+.navbar-text {
+    font-size: 18px;
+}
+.jumbotron {
+    font-size: 18px;
+}
+.listgroup {
+    margin: 1%;
+}
+h3 {
+    margin: 1%;
+}
